@@ -1,1 +1,50 @@
-
+.index-logo{
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    background-color: lightskyblue;
+}
+.index-list{
+    font-size: 20px;
+    background-color: rgb(255, 251, 244);
+}
+.index-link{
+    text-decoration: none;
+    color: darkmagenta;
+}
+.index-number{
+    list-style-type: none;
+    display: flex;
+    justify-content: start;
+}
+.index-div{
+    background-color: lightgray;
+}
+.index-name{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    background-color: cyan;
+}
+.index-img{
+    width: 1000px;
+}
+.index-p{
+    font-size: 20px;
+}
+.h-work{
+    display: flex;
+    justify-content: center;
+    align-content: start;
+    font-size: 40px;
+    background-color: aqua;
+}
+.p-work{
+    font-size: 25px;
+    background-color: yellow;
+}
+.index-number-2{
+    list-style-type: none;
+}
