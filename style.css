@@ -25,7 +25,12 @@ margin: 0 auto;
     margin-left: 8px;
     font-weight: 700;
 }
-.index-number{
+.main-index-number{
+    list-style-type: none;
+    display: flex;
+    justify-content: start;
+}
+.footer-index-number{
     list-style-type: none;
     display: flex;
     justify-content: start;
