@@ -25,13 +25,7 @@ margin: 0 auto;
     margin-left: 8px;
     font-weight: 700;
 }
-.main-index-number{
-    list-style-type: none;
-    display: flex;
-    justify-content: start;
-}
 .footer-index-number{
-    list-style-type: none;
     display: flex;
     justify-content: start;
 }
@@ -74,4 +68,26 @@ header{
     background-color: rgb(255, 251, 244);
     padding-top: 15px;
     padding-bottom: 15px;
+}
+.work-link{
+    text-decoration: none;
+    color: darkmagenta;
+    margin-right: 8px;
+    margin-left: 8px;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+}
+.index-navigation{
+    width: 700px;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-index-link{
+    color: rgb(185, 0, 185);
+    font-size: 30px;
+    background-color: yellow;
 }
